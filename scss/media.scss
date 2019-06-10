@@ -1,0 +1,24 @@
+/* Small only ( Mobile .... < 640 px ) */ 
+@media screen and (max-width: 39.9375em) {
+
+}
+
+/* Medium and up ( Tablet and larger .... >= 640 px )*/
+@media screen and (min-width: 40em) {
+
+}
+
+/* Medium only ( Tablet .... >= 640 & < 1024 ) */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+
+}
+
+/* Large and up ( Laptop larger .... >= 1024 ) */
+@media screen and (min-width: 64em) {
+    
+}
+
+/* Large only ( Desktop .... >= 1024 & < 1200 ) */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+
+}
